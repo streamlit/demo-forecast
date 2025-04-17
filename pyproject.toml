@@ -1,0 +1,13 @@
+[project]
+name = "demo-forecasts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "prophet>=1.1.6",
+    "pypistats>=1.9.0",
+    "requests>=2.32.3",
+    "streamlit-nightly>=1.44.2.dev20250415",
+]
