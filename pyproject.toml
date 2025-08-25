@@ -1,7 +1,7 @@
 [project]
 name = "demo-forecasts"
 version = "0.1.0"
-description = "Add your description here"
+description = "Streamlit example with fake data demonstrating how to build an awesome forecast app."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
